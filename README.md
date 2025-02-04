@@ -10,9 +10,9 @@ Time spent: **1** hour spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Number starting at 0 displayed on screen 
-* [ ] Button displayed on screen
-* [ ] Button function succesfully adding 1 to the number 
+* [X] Number starting at 0 displayed on screen 
+* [X] Button displayed on screen
+* [X] Button function succesfully adding 1 to the number 
 
 There were no **optional** functions added.
 
